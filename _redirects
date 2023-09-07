@@ -1,1 +1,6 @@
-/index.html /home 301
+/home /index.html 200
+/roster /roster.html 200
+/daftar-siswa /siswa.html 200
+/daftar-piket /piket.html 200
+/struktur-kelas /struktur.html 200
+/moment /moment.html 200
